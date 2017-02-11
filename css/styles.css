@@ -1,0 +1,48 @@
+body{
+    background-image: url(http://coldplay.com/wp-content/themes/ahfod/images/coldplayOG.jpg);
+}
+
+h1.whiten{
+    text-decoration: underline;
+    font-size: 50px;
+    text-align: center;
+}
+
+.whiten{
+    color: white;
+    font-size: 25px;
+}
+
+.sidebar{
+    width: 300px;
+    float: right;
+    color: white;
+    background-color: green;
+    text-align: center;
+    padding: 4px;
+    margin: 10px;
+    border: 2px solid green;
+}
+
+.inc{
+    font-size: 20px;
+}
+
+.cold1{
+    float: right;
+}
+
+.cold2{
+    float: left;
+}
+
+.justify{
+    text-align: right;
+    color: white;
+    font-size: 25px;
+}
+
+.sidebar ol{
+        font-style: italic;
+        font-weight: bold;
+}
