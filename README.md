@@ -1,4 +1,4 @@
-# Mayfair Cupcake Shop
+# Coldplay
 This is a webpage about my favorite band - Coldplay.
 
 Coldplay is a band that mostly focuses on indie music. The webpage shows is a bio about the band as well as their upcoming tour.
